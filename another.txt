@@ -1,0 +1,28 @@
+1. Man displays a manual. To get out of manual (man) you use Q
+2.  (The lowercase letter ``ell''.)  List in long format.  (See
+             below.)  A total sum for all the file sizes is output on a line
+             before the long listing.
+  -a. Include directory entries whose names begin with a dot (.).
+
+3. With the option key
+4. Command e
+5. Option cursor
+6. command w
+7 The Terminal is a direct line in to the computer to interact.
+- a shell is the program that processes commands and returns output 
+8. A path starting from the root is a absolute path
+9. A path from the home directory
+10. Flags are add ons to the typical commands. -r -d =-f
+11. R: Attempt to remove the file hierarchy rooted in each file
+                 argument.  The -R option implies the -d option.  If the -i
+                 option is specified, the user is prompted for confirmation
+                 before each directory's contents are processed (as well as
+                 before the attempt is made to remove the directory).  If the
+                 user does not respond affirmatively, the file hierarchy
+                 rooted in that directory is skipped.
+
+F:  Attempt to remove the files without prompting for confirma-
+                 tion, regardless of the file's permissions.  If the file does
+                 not exist, do not display a diagnostic message or modify the
+                 exit status to reflect an error.  The -f option overrides any
+                 previous -i options.
